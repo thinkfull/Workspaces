@@ -14,6 +14,7 @@ import java.net.UnknownHostException;
 * 1.  first time modified: this is modified on github ：update by --> git pull https://github.com/thinkfull/Workspaces.git
 
 * 2.  second time modified: this is modified on github : git pull origin master
+* 4.  这一行是在git上作的修改，测试和本地冲突的情况
 **/
 public class JabberClient {
 
