@@ -14,12 +14,12 @@ import java.net.UnknownHostException;
 * 1.  first time modified: this is modified on github ：update by --> git pull https://github.com/thinkfull/Workspaces.git
 
 * 2.  second time modified: this is modified on github : git pull origin master
-
+<<<<<<< Updated upstream
 * 4.  这一行是在git上作的修改，测试和本地冲突的情况
-
+=======
 
 * 3.  在本地作的修改，同时在github也做修改，看看冲突(这一行是本地修改的)
-
+>>>>>>> Stashed changes
 **/
 public class JabberClient {
 
