@@ -10,6 +10,9 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+/**
+* this is modified on github
+**/
 public class JabberClient {
 
 	/**
