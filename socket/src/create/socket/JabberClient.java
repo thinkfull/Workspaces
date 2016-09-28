@@ -21,6 +21,8 @@ import java.net.UnknownHostException;
 * 3.  在本地作的修改，同时在github也做修改，看看冲突(这一行是本地修改的)
 
 * 5.  这一行是由thinkfull2增加的，并由thinkfull提交到自己的branch上
+
+* 6.  这一行也是由thinkfull2增加的，并由thinkfull提交到自己的branch上,第二次提交
 **/
 public class JabberClient {
 
